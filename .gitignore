@@ -1,0 +1,10 @@
+﻿
+# Editor / IDE
+.vscode/
+.idea/
+
+# Build output (includes target/classes, target/test-classes, JARs, etc.)
+target/
+
+# Compiled class files (if any appear outside target/)
+*.class
